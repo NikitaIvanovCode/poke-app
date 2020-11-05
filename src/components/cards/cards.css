@@ -1,0 +1,28 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: -.2rem;
+}
+
+.cards__item{
+    padding: .5rem;
+    margin-bottom: .5rem;
+    margin-left: .2rem;
+    border: 1px solid #c1c1c1;
+    border-radius: 7%;
+    text-align: center;
+}
+
+.cards__item:hover{
+    background:#e1edff;
+}
+
+.cards__item-img{
+    width: 95px;
+    height: 95px;
+}
+
+.cards__item-title{
+    width: 95px;
+}
