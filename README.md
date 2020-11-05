@@ -1,12 +1,12 @@
-Стек:
+<h2>Стек:</h2>
 
--React
--Redux
--Webpack
--Babal
+<p>-React</p>
+<p>-Redux</p>
+<p>-Webpack</p>
+<p>-Babal</p>
 
-Запуск:
+<h2>Запуск:</h2>
 
-npm i установка зависимостей
-npm start запуск проекта в режиме разработчика
-npm run build сборка в режиме production
+<p>npm i установка зависимостей</p>
+<p>npm start запуск проекта в режиме разработчика</p>
+<p>npm run build сборка в режиме production</p>
