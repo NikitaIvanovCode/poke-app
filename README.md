@@ -3,7 +3,7 @@
 <p>-React</p>
 <p>-Redux</p>
 <p>-Webpack</p>
-<p>-Babal</p>
+<p>-Babel</p>
 
 <h2>Запуск:</h2>
 
